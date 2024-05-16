@@ -1,8 +1,6 @@
 # JihunPark
 
-# Hello, I'm Your Name 👋
-
-Welcome to my GitHub profile! Here are some details about my work and projects.
+# Hi there! 👋
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunPark03&layout=compact)
